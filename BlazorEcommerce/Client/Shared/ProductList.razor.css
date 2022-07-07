@@ -17,21 +17,12 @@
     text-align: center;
 }
 
-.price
+.page-selection
 {
-    color: green;
+    margin-right: 15px;
+    margin-bottom: 30px;
 }
 
-.media
-{
-    display: flex;
-    align-items: flex-start;
-}
-
-.media-body
-{
-    flex:1;
-}
 
 @media (max-width: 1023.98px)
 {
